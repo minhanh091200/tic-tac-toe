@@ -1,2 +1,3 @@
 # tic-tac-toe
-SImple 3x3 Tic-Tac-Toe game (idea provided by TOP)
+Simple 3x3 Tic-Tac-Toe game (idea provided by TOP)
+https://minhanh091200.github.io/tic-tac-toe/
